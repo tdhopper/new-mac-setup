@@ -11,6 +11,7 @@ brew 'tmux'
 brew 'z'
 brew 'hub'
 brew 'bash'
+brew ‘s3cmd’
 
 # Install GUI Apps
 
@@ -26,6 +27,8 @@ cask 'caffeine'
 cask 'dropbox'
 cask 'evernote'
 cask 'flux'
+cask 'google-drive'
+cask 'hazel'
 cask 'iterm2'
 cask 'karabiner'
 cask 'keyboard-maestro'
