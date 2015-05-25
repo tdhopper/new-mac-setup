@@ -20,6 +20,7 @@ tap 'caskroom/fonts'
 tap 'caskroom/versions'
 
 cask '1password'
+cask 'acorn'
 cask 'alfred'
 cask 'audacity'
 cask 'bartender'
