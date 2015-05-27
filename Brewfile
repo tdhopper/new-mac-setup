@@ -2,6 +2,7 @@
 
 # Install command line apps
 
+brew 'ccat'
 brew 'coreutils'
 brew 'sox'
 brew 'multimarkdown'
