@@ -12,6 +12,7 @@ brew 'tmux'
 brew 'z'
 brew 'hub'
 brew 'bash'
+brew 'terminal-notifier'
 brew ‘s3cmd’
 
 # Install GUI Apps
