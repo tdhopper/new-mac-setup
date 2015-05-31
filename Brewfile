@@ -2,17 +2,17 @@
 
 # Install command line apps
 
+brew 'bash'
 brew 'ccat'
 brew 'coreutils'
-brew 'sox'
-brew 'multimarkdown'
-brew 'the_silver_searcher'
 brew 'git'
+brew 'hub'
+brew 'multimarkdown'
+brew 'sox'
+brew 'terminal-notifier'
+brew 'the_silver_searcher'
 brew 'tmux'
 brew 'z'
-brew 'hub'
-brew 'bash'
-brew 'terminal-notifier'
 brew ‘s3cmd’
 
 # Install GUI Apps
