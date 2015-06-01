@@ -5,6 +5,7 @@
 brew 'bash'
 brew 'ccat'
 brew 'coreutils'
+brew 'duti'
 brew 'git'
 brew 'hub'
 brew 'multimarkdown'
