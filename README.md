@@ -26,8 +26,8 @@ To update everything installed with Homebrew, run `$ brew upgrade --all
 `. To delete everything installed by Homebrew but not in the Brewfile, run `$ brew bundle cleanup`.
 [More on Brewfiles is available here](https://github.com/Homebrew/homebrew-bundle).
 
-To set default application for certain file types to run in, navigate to the `dotfiles` repo and run:
+To set default application for certain file types to run in, run
 
 ```
-$ duti ~/repos/dotfiles/duti
+$ duti ~/.duti
 ```
