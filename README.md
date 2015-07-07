@@ -1,6 +1,8 @@
 Install programs and configure a new Mac.
 
-Run `$ bash setup.sh`. This will install [miniconda](http://conda.pydata.org/miniconda.html "Miniconda &mdash; Conda") and [Homebrew](http://brew.sh/ "Homebrew — The missing package manager for OS X"), and then install lots of programs via the `Brewfile`.
+Run `$ bash setup.sh`. This will install [miniconda](http://conda.pydata.org/miniconda.html "Miniconda &mdash; Conda") and [Homebrew](http://brew.sh/ "Homebrew — The missing package manager for OS X").
+
+Install all the software listed in the Brewfile with `brew bundle`. (This requires `brew tap Homebrew/bundle` to be run first; it's included in `setup.sh`.)
 
 Finding applications installed by Homebrew with Alfred may required
 [configuring the Alfred search path](http://support.alfredapp.com/kb:symlinked-apps) to include `/opt/homebrew-cask/Caskroom/`.
