@@ -15,7 +15,7 @@ brew 'terminal-notifier'
 brew 'the_silver_searcher'
 brew 'tmux'
 brew 'z'
-brew ‘s3cmd’
+brew 's3cmd'
 
 # Install GUI Apps
 
