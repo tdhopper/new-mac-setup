@@ -2,13 +2,19 @@
 
 # Install command line apps
 
+brew 'ack'
 brew 'bash'
 brew 'ccat'
 brew 'coreutils'
+brew 'cookiecutter'
 brew 'duti'
 brew 'git'
+brew 'git-lfs'
+brew 'git-extras'
+brew 'gist'
 brew 'hub'
 brew 'multimarkdown'
+brew 'node'
 brew 'sox'
 brew 'pandoc'
 brew 'terminal-notifier'
@@ -17,13 +23,16 @@ brew 'tmux'
 brew 'z'
 brew 's3cmd'
 
+tap 'nvie/autoenv'
+brew 'autoenv'
+
 # Install GUI Apps
 
 brew 'caskroom/cask/brew-cask'
+tap 'caskroom/cask'
 tap 'caskroom/fonts'
 tap 'caskroom/versions'
 
-cask '1password'
 cask 'acorn'
 cask 'alfred'
 cask 'audacity'
