@@ -11,3 +11,6 @@ brew tap Homebrew/bundle
 wget http://repo.continuum.io/miniconda/Miniconda-latest-MacOSX-x86_64.sh -O miniconda.sh
 chmod +x miniconda.sh
 ./miniconda.sh -b
+
+# Agree to Xcode license
+sudo xcodebuild -license
