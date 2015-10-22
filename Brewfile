@@ -2,7 +2,6 @@
 
 # Install command line apps
 
-brew 'ack'
 brew 'bash'
 brew 'ccat'
 brew 'coreutils'
@@ -37,9 +36,8 @@ cask 'acorn'
 cask 'alfred'
 cask 'audacity'
 cask 'bartender'
+cask ‘bettertouchtool’
 cask 'caffeine'
-cask 'daisydisk'
-cask 'dayone-cli'
 cask 'dropbox'
 cask 'duet'
 cask 'evernote'
@@ -48,7 +46,6 @@ cask 'google-drive'
 cask 'hazel'
 cask 'iterm2'
 cask 'kaleidoscope'
-cask 'karabiner'
 cask 'kindle'
 cask 'keyboard-maestro'
 cask 'macvim'
