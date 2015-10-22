@@ -21,9 +21,9 @@ $ . makesymlinks.sh
 To setup Sublime Text syncing, [run](https://packagecontrol.io/docs/syncing)
 
 ```
-$ cd "$env:appdata\Sublime Text 3\Packages\"
-$ rmdir -recurse User
-$ cmd /c mklink /D User $env:userprofile\Dropbox\Sublime\User
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+rm -r User
+ln -s ~/Dropbox/Sublime/User
 ```
 
 To update everything installed with Homebrew, run `$ brew upgrade --all
